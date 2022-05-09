@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @nushoRaat
+- 👋 Hi, I’m Nushrat Jahan
 - 👀 I’m interested in software development and also graphics designing.
 - 🌱 I’m currently learning Python and React
 - 💞️ I’m looking to collaborate on android/ios apps
